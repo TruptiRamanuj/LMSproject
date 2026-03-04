@@ -19,10 +19,10 @@ const Footer = () => {
                             Empowering learners worldwide with affordable, high-quality education. Join our community and start your journey today.
                         </p>
                         <div className="flex space-x-4 pt-4">
-                            <a href="#" className="hover:text-primary-500 transition-colors"><Twitter className="w-5 h-5" /></a>
-                            <a href="#" className="hover:text-primary-500 transition-colors"><Facebook className="w-5 h-5" /></a>
-                            <a href="#" className="hover:text-primary-500 transition-colors"><Instagram className="w-5 h-5" /></a>
-                            <a href="#" className="hover:text-primary-500 transition-colors"><Github className="w-5 h-5" /></a>
+                            <a href="#!" className="hover:text-primary-500 transition-colors"><Twitter className="w-5 h-5" /></a>
+                            <a href="#!" className="hover:text-primary-500 transition-colors"><Facebook className="w-5 h-5" /></a>
+                            <a href="#!" className="hover:text-primary-500 transition-colors"><Instagram className="w-5 h-5" /></a>
+                            <a href="#!" className="hover:text-primary-500 transition-colors"><Github className="w-5 h-5" /></a>
                         </div>
                     </div>
 
@@ -42,11 +42,11 @@ const Footer = () => {
                     <div>
                         <h4 className="text-white font-bold mb-6">Support</h4>
                         <ul className="space-y-4 text-sm">
-                            <li><a href="#" className="hover:text-primary-500 transition-colors">Help Center</a></li>
-                            <li><a href="#" className="hover:text-primary-500 transition-colors">Career Support</a></li>
-                            <li><a href="#" className="hover:text-primary-500 transition-colors">Terms of Service</a></li>
-                            <li><a href="#" className="hover:text-primary-500 transition-colors">Privacy Policy</a></li>
-                            <li><a href="#" className="hover:text-primary-500 transition-colors">Affiliate Program</a></li>
+                            <li><a href="#!" className="hover:text-primary-500 transition-colors">Help Center</a></li>
+                            <li><a href="#!" className="hover:text-primary-500 transition-colors">Career Support</a></li>
+                            <li><a href="#!" className="hover:text-primary-500 transition-colors">Terms of Service</a></li>
+                            <li><a href="#!" className="hover:text-primary-500 transition-colors">Privacy Policy</a></li>
+                            <li><a href="#!" className="hover:text-primary-500 transition-colors">Affiliate Program</a></li>
                         </ul>
                     </div>
 

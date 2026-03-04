@@ -135,7 +135,7 @@ const Register = () => {
                                 onChange={(e) => setFormData({ ...formData, agreeToTerms: e.target.checked })}
                             />
                             <label htmlFor="terms" className="ml-3 text-sm text-slate-600">
-                                I agree to the <a href="javascript:void(0)" className="text-primary-600 font-bold hover:underline">Terms of Service</a> and <a href="javascript:void(0)" className="text-primary-600 font-bold hover:underline">Privacy Policy</a>.
+                                I agree to the <a href="#!" className="text-primary-600 font-bold hover:underline">Terms of Service</a> and <a href="#!" className="text-primary-600 font-bold hover:underline">Privacy Policy</a>.
                             </label>
                         </div>
 
