@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Star, Clock, BookOpen, ChevronRight } from 'lucide-react';
+import { Star, ChevronRight } from 'lucide-react';
 
 const CourseCard = ({ course, index }) => {
     return (

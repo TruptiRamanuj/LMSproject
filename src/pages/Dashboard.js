@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { Book, Clock, Award, CheckCircle, Play, BarChart, Settings, User, Bell, Search, Filter } from 'lucide-react';
+import { Book, Clock, Award, CheckCircle, Play, BarChart, Settings, Bell, Search, Filter } from 'lucide-react';
 
 const enrolledCourses = [
     {
