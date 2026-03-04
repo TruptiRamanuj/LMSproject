@@ -1,0 +1,50 @@
+.navbar {
+    height: 10vh;
+    border: 1px solid grey;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left {
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+}
+
+.logo {
+    font-size: 1.5rem;
+
+    font-weight: bold;
+
+}
+
+.nav-links {
+    width: 50%;
+    margin: 0%;
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    color: grey;
+}
+
+.lnk {
+    text-decoration: none;
+    color: grey;
+}
+
+button {
+    height: 5vh;
+    width: 150px;
+    text-align: center;
+    border-radius: 25px;
+    border: none;
+    font-weight: bold;
+    background: #0722a8;
+    color: #fff;
+    cursor: pointer;
+    margin-right: 20px;
+
+}
