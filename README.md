@@ -56,4 +56,4 @@ src/
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-*Created with ❤️ by [Your Name]*
+*Created with ❤️ by TruptiRamanuj*
